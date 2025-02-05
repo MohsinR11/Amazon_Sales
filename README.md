@@ -24,5 +24,5 @@ This Power BI dashboard provides insights into Amazon's sales performance across
 
 ## Author
 **Mohsin Raza**  
-[LinkedIn](www.linkedin.com/in/mohsin--raza)  
-[GitHub](https://github.com/mohsinR11)
+[LinkedIn] (www.linkedin.com/in/mohsin--raza)  
+[GitHub] (https://github.com/mohsinR11)
